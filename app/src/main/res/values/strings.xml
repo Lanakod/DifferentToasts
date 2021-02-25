@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Different Toasts</string>
+    <string name="green">Зелёный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="red">Красный</string>
+    <string name="developer">Разработчик Малахов М.А.</string>
+</resources>
